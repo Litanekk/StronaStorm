@@ -1,7 +1,8 @@
 # StronaStorm
 
-Witaj na stronie serwera stormRP ![logo (2)](https://user-images.githubusercontent.com/98953257/152529721-61f41961-505f-4786-adf1-00fcbe9b1782.png)
+Witaj na stronie serwera stormRP 
 
+![logo (2)](https://user-images.githubusercontent.com/98953257/152529721-61f41961-505f-4786-adf1-00fcbe9b1782.png)
 
 
 O serwerze: Serwer jest serwerem RolePlay . 
