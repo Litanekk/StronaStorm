@@ -13,11 +13,17 @@ Faq: Czym jest RolePlay? - RolePlay to nic innego jak odgrywanie swojej postaci 
                                                              Postanowienia ogólne
 
 0.1 Każdy gracz jest zobowiązany do przestrzegania regulaminu
+
 0.2. Administracja ma prawo karać bez konkretnego powodu jeśli uważa to za słuszne
+
 0.3. Administracja ma prawo do zmiany regulaminu w dowolnym momencie
+
 0.4 . Nieznajomość regulaminu nie zwalnia z przestrzegania go
+
 0.5. Zakaz używania programów trzecich podczas rozgrywki 
+
 0.6. W przypadku naruszenia zasad wymienionych Gracz zostanie ukarany banem
+
 0.7 . Absolutny kategoryczny zakaz odgrywana bojówek
 
 
