@@ -11,10 +11,10 @@ Faq: Czym jest RolePlay? - RolePlay to nic innego jak odgrywanie swojej postaci 
 Co muszę mieć aby posiadać : Musisz posiadać sprawny mikrofon oraz podstawową wiedze na temat role playu
 
 
-                                                             Regulamin Serwera
+                                         Regulamin Serwera
                                                              
                                                              
-                                                             Postanowienia ogólne
+                                             Postanowienia ogólne
 
 0.1 Każdy gracz jest zobowiązany do przestrzegania regulaminu
 
