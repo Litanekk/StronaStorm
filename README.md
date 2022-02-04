@@ -8,7 +8,7 @@ Witaj na stronie serwera stormRP
 O serwerze: Serwer jest serwerem RolePlay . 
 
 Faq: Czym jest RolePlay? - RolePlay to nic innego jak odgrywanie swojej postaci . Można powiedziec że jest to jagby teatr. Liczy się głównie kreatywność
-Co muszę mieć aby posiadać : Musisz posiadać sprawny mikrofon oraz podstawową wiedze na temat role playu
+Co muszę mieć aby posiadać : Musisz posiadać sprawny mikrofon, mutacje głosu, oraz podstawową wiedze na temat role playu
 
 
                                          Regulamin Serwera
