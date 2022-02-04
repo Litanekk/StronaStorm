@@ -40,7 +40,7 @@ Nigdy nie wychodź z roli.
 IC
 
 
-1.0 Serwer HYZEjest przeznaczony dla osób które ukończyły 13 Rok Życia( mogą być wyjątki )
+1.0 Serwer HYZEjest przeznaczony dla osób które ukończyły mutację Rok Życia
 
 1.1 Podczas gry niezbędna jest wiedza o klawiszologii, którą znajdziesz na naszym discordzie w zakładce ‘’informacje’’ na kanale ‘’klawiszologia’’
 
